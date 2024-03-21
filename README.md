@@ -15,7 +15,7 @@ To use this web application on your local machine, follow these steps:
 2. **Navigate to the Directory:**
    Navigate into the cloned repository directory:
    ```
-   cd picture-in-picture-web-app
+   cd Picture-in-Picture
    ```
 
 3. **Open the HTML File:**
