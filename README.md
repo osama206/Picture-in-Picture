@@ -27,7 +27,7 @@ To use this web application on your local machine, follow these steps:
 5. **Enjoy PiP Mode:**
    The video content will now be displayed in Picture-in-Picture mode, allowing you to move it around and resize it as needed while you continue to work or browse other applications.
 
-To include a hyperlink in the text "Picture in Picture" that directs users to the provided link (https://osama206.github.io/Picture-in-Picture/), you can modify the instructions as follows:
+To use the Picture-in-Picture web application with the provided link ([Picture in Picture](https://osama206.github.io/Picture-in-Picture/)), you can follow these steps:
 
 1. **Open the Provided Link:**
    Visit the provided link ([Picture in Picture](https://osama206.github.io/Picture-in-Picture/)) in your web browser.
