@@ -9,13 +9,13 @@ To use this web application on your local machine, follow these steps:
 1. **Clone the Repository:**
    Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/osama206/Picture-in-Picture.git
+   git clone https://github.com/osama206/picture-in-picture.git
    ```
 
 2. **Navigate to the Directory:**
    Navigate into the cloned repository directory:
    ```
-   cd Picture-in-Picture
+   cd picture-in-picture
    ```
 
 3. **Open the HTML File:**
@@ -27,10 +27,10 @@ To use this web application on your local machine, follow these steps:
 5. **Enjoy PiP Mode:**
    The video content will now be displayed in Picture-in-Picture mode, allowing you to move it around and resize it as needed while you continue to work or browse other applications.
 
-To use the Picture-in-Picture web application with the provided link ([Picture in Picture](https://osama206.github.io/Picture-in-Picture/)), you can follow these steps:
+To use the Picture-in-Picture web application with the provided link ([Picture in Picture](https://osama206.github.io/picture-in-picture/)), you can follow these steps:
 
 1. **Open the Provided Link:**
-   Visit the provided link ([Picture in Picture](https://osama206.github.io/Picture-in-Picture/)) in your web browser.
+   Visit the provided link ([Picture in Picture](https://osama206.github.io/picture-in-picture/)) in your web browser.
 
 2. **Start Picture-in-Picture Mode:**
    Once the webpage loads, you'll see a "START" button. Click on the button to start Picture-in-Picture mode for the display media.
